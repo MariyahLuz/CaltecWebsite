@@ -1,4 +1,4 @@
-# Maria's Internship project.
+# Internship project.
 
 This is a website for Caltec Academy Secondary School
 
@@ -9,7 +9,7 @@ This is a website for Caltec Academy Secondary School
 -   Tailwind CSS
 
 
-## Installation
+## Installations
 
 -   Install react globally
 
